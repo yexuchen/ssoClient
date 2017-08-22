@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="ssoServer">
+    <output-path>C:/apache-tomcat-8.0.43/webapps</output-path>
+    <root id="archive" name="webDemo_war.war">
+      <element id="artifact" artifact-name="webDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
